@@ -9,7 +9,7 @@ The purpose of this project is to create a text database of popular writing abou
  
 This project leverages the blog Economist's View by retired economist Mark Thoma. For nearly a decade, Thoma's blog was a central curator of the economics blogosphere and so represents a good starting point for analyzing economics writing. 
  
-In leveraging the Economist's View archive and the articles linked in it, without republishing them for readers, I believe this project falls within fair use. In keeping wiht fair use, any users of this project should not publish entire articles from this database without permission from the original publisher.
+In leveraging the Economist's View archive and the articles linked in it, without republishing them for readers, I believe this project falls within fair use. In keeping with fair use, any users of this project should not publish entire articles from this database without permission from the original publisher.
  
  ### Detail
  
